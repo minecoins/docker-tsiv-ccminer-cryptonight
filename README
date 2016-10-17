@@ -1,0 +1,5 @@
+# About this Repo
+
+This is the Git repo of the Docker [minecoins/tsiv-ccminer-cryptonight](https://hub.docker.com/r/minecoins/tsiv-ccminer-cryptonight/) image. See [the Docker Hub page](https://hub.docker.com/r/minecoins/tsiv-ccminer-cryptonight/) for the full readme on how to use this Docker image.
+
+[ccminer-cryptonight](https://github.com/tsiv/ccminer-cryptonight) is a modification of Christian Buchner's & Christian H.'s ccminer project by tsiv for Cryptonight mining.
